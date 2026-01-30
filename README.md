@@ -9,7 +9,7 @@
 ---
 |            Search Result Screen     |            Search Filter Screen             |
 | :-----------------------------------: | :------------------------------------: |
-| ![Search Result](screenshots/3.png) | ![Search Filter](screenshots/4.png) |
+| ![Search Result](screenshots/3.png) | ![Search Filter](screenshots/2.png) |
 ---
 |            Book Ticket Screen            |            Booking Overview Screen             |
 | :------------------------------------: | :-------------------------------------: |
